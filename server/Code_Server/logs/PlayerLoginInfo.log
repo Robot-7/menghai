@@ -1,0 +1,5 @@
+INFO  2015-09-22 20:48:20,226 [ObjectAccessor.java,27] - add online session,playerid:1
+INFO  2015-09-22 20:48:20,226 [ClientSession.java,36] - player login setSession method|#playerId:1#client ip:/127.0.0.1:32708#current online player count:1
+INFO  2015-09-22 21:22:28,598 [SessionHandler.java,73] - player logout sessionClosed method|playerId:1#client ip:/127.0.0.1:32708#Current playerCount:1
+INFO  2015-09-22 21:22:28,599 [ObjectAccessor.java,32] - remove online session,playerid:1
+INFO  2015-09-22 21:22:28,623 [SessionHandler.java,85] - plad|cloyer logout sessionClosed methose this session playerId:1

@@ -1,0 +1,12 @@
+INFO  2015-09-22 20:48:21,715 [UserBattleArrayHandler.java,47] - user battle array handler received: 1, 1, {}
+INFO  2015-09-22 20:48:21,718 [UserBattleArrayHandler.java,99] - user battle array handler ret send: 1, 3, {}
+INFO  2015-09-22 20:53:39,470 [UserBattleArrayHandler.java,47] - user battle array handler received: 1, 1, {}
+INFO  2015-09-22 20:53:39,472 [UserBattleArrayHandler.java,99] - user battle array handler ret send: 1, 2, {}
+INFO  2015-09-22 20:53:46,622 [UserBattleHandler.java,56] - user battle handler received: 1, 1, 0
+INFO  2015-09-22 20:53:46,624 [UserBattleHandler.java,302] - user battle handler ret send: 1, 1, {}
+INFO  2015-09-22 20:54:04,401 [UserBattleHandler.java,56] - user battle handler received: 1, 1, 0
+INFO  2015-09-22 20:54:04,417 [UserBattleHandler.java,302] - user battle handler ret send: 1, 16, {}
+INFO  2015-09-22 20:55:47,063 [UserBattleHandler.java,56] - user battle handler received: 1, 1, 0
+INFO  2015-09-22 20:55:47,116 [UserBattleHandler.java,302] - user battle handler ret send: 1, 53, {}
+INFO  2015-09-22 20:56:21,359 [UserBattleHandler.java,56] - user battle handler received: 1, 1, 0
+INFO  2015-09-22 20:56:21,428 [UserBattleHandler.java,302] - user battle handler ret send: 1, 69, {}

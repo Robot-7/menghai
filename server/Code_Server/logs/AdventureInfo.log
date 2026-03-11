@@ -1,0 +1,4 @@
+INFO  2015-09-22 21:08:55,924 [AdventureContinueLoginHandler.java,61] - getInfo received: 1, 1
+INFO  2015-09-22 21:08:55,926 [AdventureContinueLoginHandler.java,81] - getInfo Send: PlayerId:1, Cost:2
+INFO  2015-09-22 21:08:57,229 [AdventureContinueLoginHandler.java,111] - getReward received: PlayerId:1, Version:1,rewardId:1
+INFO  2015-09-22 21:08:57,287 [AdventureContinueLoginHandler.java,247] - gerReward Send: PlayerId:1,Cost:58

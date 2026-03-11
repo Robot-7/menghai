@@ -1,0 +1,8 @@
+INFO  2015-09-22 20:48:21,801 [UserMarketInfoHandler.java,33] - user market info handler received: 1, 1, {}
+INFO  2015-09-22 20:48:21,803 [UserMarketInfoHandler.java,89] - user market info handler ret send: 1, 1, {}
+INFO  2015-09-22 20:53:39,552 [UserMarketInfoHandler.java,33] - user market info handler received: 1, 1, {}
+INFO  2015-09-22 20:53:39,552 [UserMarketInfoHandler.java,89] - user market info handler ret send: 1, 0, {}
+INFO  2015-09-22 20:56:53,376 [MarketRecruitDiscipleHandler.java,57] - market recruit disciple handler received: 1, 1, 1
+INFO  2015-09-22 20:56:53,406 [MarketRecruitDiscipleHandler.java,453] - market recruit disciple handler ret send: 1, 29, {}
+INFO  2015-09-22 20:56:58,286 [MarketRecruitDiscipleHandler.java,57] - market recruit disciple handler received: 1, 1, 2
+INFO  2015-09-22 20:56:58,334 [MarketRecruitDiscipleHandler.java,453] - market recruit disciple handler ret send: 1, 48, {}

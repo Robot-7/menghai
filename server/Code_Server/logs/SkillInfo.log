@@ -1,0 +1,4 @@
+INFO  2015-09-22 20:48:21,362 [UserSkillInfoHandler.java,48] - user skill info handler received: 1, 1, {}
+INFO  2015-09-22 20:48:21,364 [UserSkillInfoHandler.java,90] - user skill info handler ret send: 1, 1, {}
+INFO  2015-09-22 20:53:39,146 [UserSkillInfoHandler.java,48] - user skill info handler received: 1, 1, {}
+INFO  2015-09-22 20:53:39,147 [UserSkillInfoHandler.java,90] - user skill info handler ret send: 1, 1, {}
