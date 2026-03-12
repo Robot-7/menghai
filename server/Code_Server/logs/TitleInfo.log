@@ -1,4 +1,0 @@
-INFO  2015-09-22 20:48:21,887 [TitleInfoHandler.java,38] - title info handler received: 1, 1, {}
-INFO  2015-09-22 20:48:21,888 [TitleInfoHandler.java,95] - title info handler ret send: 1, 1, {}
-INFO  2015-09-22 20:53:39,633 [TitleInfoHandler.java,38] - title info handler received: 1, 1, {}
-INFO  2015-09-22 20:53:39,633 [TitleInfoHandler.java,95] - title info handler ret send: 1, 0, {}

@@ -1,1 +1,0 @@
-zipalign.exe 4 .\bin\DreamOnePiece-release-unsigned.zip .\bin\DreamOnePiece_sy4399_date_build.apk

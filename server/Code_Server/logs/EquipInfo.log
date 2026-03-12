@@ -1,4 +1,0 @@
-INFO  2015-09-22 20:48:21,625 [UserEquipInfoHandler.java,48] - user equip info handler received: 1, 1, {}
-INFO  2015-09-22 20:48:21,629 [UserEquipInfoHandler.java,139] - user equip info handler ret send: 1, 3, {}
-INFO  2015-09-22 20:53:39,389 [UserEquipInfoHandler.java,48] - user equip info handler received: 1, 1, {}
-INFO  2015-09-22 20:53:39,389 [UserEquipInfoHandler.java,139] - user equip info handler ret send: 1, 0, {}

@@ -1,1 +1,0 @@
-python Gensrc.py jni/gen ./jni ../Platform ../Classes ../Protobuf
